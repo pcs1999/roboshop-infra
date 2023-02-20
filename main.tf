@@ -5,7 +5,7 @@
 #}
 
 module "network" {
-  source = "https://github.com/pcs1999/tf-module-vpc"
+  source = "https://github.com/pcs1999/tf-module-vpc.git"
   
 } 
 
