@@ -6,6 +6,7 @@
 
 module "network" {
   source = "https://github.com/pcs1999/tf-module-vpc.git"
+  env = var.env
   
 } 
 
