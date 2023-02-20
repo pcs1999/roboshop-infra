@@ -1,2 +1,2 @@
 variable "env" {}
-variable "dev" {}
+variable "vpc" {}
